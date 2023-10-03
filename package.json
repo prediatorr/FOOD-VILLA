@@ -2,7 +2,7 @@
   "name": "food-villa",
   "version": "1.0.0",
   "description": "food villa app",
-  "main": "App.js",
+
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
